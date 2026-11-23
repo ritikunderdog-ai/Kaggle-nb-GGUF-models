@@ -19,3 +19,4 @@ This repository have the Kaggle note books to run Hugging face Models And genera
      "The more Accurate Data You have"
 
 USE that "Good-Working-LLM"
+<img width="1322" height="652" alt="image" src="https://github.com/user-attachments/assets/3c10d467-48e1-4317-9dfd-fc637ee61abd" />
