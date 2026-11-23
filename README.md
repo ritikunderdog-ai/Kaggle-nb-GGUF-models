@@ -13,6 +13,7 @@ This repository have the Kaggle note books to run Hugging face Models And genera
 
     We have to modify the hermes "Model_Metadata.py" file to Bypass the default Settings.
     
+   or You can use the Large parameter Model with low bit Data's
 
      "The more bit you selected"
      "The more Accurate Data You have"
